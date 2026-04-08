@@ -4,7 +4,7 @@ package appointment.v1;
 
 import "google/protobuf/timestamp.proto";
 
-option go_package = "github.com/wired27/ap2-medical-protos-go-clean/appointment/v1;appointmentv1";
+option go_package = "github.com/wired27/advanced2-protos-go/appointment/v1;appointmentv1";
 
 enum AppointmentStatus {
   APPOINTMENT_STATUS_UNSPECIFIED = 0;

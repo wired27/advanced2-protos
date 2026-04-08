@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package doctor.v1;
 
-option go_package = "github.com/wired27/ap2-medical-protos-go-clean/doctor/v1;doctorv1";
+option go_package = "github.com/wired27/advanced2-protos-go/doctor/v1;doctorv1";
 
 message Doctor {
   string id = 1;
